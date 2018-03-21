@@ -3,3 +3,11 @@ GIThub 学习文档
 http://www.runoob.com/w3cnote/git-guide.html
 
 http://www.cnblogs.com/schaepher/p/5561193.html
+
+github 使用步骤：
+1，先在github上创建一个项目，
+点击右上角的‘+’符号，展开后选择 New repository.然后去个项目名字，拷贝连接。
+
+2，在文件中点击空白部分，右键选择git clone  ,点击ok.多出一个文件夹点击右键git create repository here
+
+3,TortoiseGit
